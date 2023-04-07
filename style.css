@@ -1,8 +1,5 @@
 
-{
-    margin: 0;
-    padding: 0;
-}
+
 
 body {
     
@@ -13,6 +10,7 @@ body {
 
 .cabecalho {
     background-color: #008000;
+    color: #FFFFFF;
     display: flex;
     justify-content: space-around;
     align-items: center;
