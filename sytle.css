@@ -10,8 +10,7 @@ body {
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
-    
-.cabecalho-imagem
+img {}
     width: 130px;
     height: 160px;
 }
