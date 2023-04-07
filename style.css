@@ -8,13 +8,14 @@ body {
     padding: 0;
 }
 
-.cabecalho {
+.cabecalho  {
     background-color: #008000;
     color: #FFFFFF;
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
+}
 )
 .cabecalho-imagem
     width: 130px;
@@ -22,6 +23,6 @@ body {
 
 
     
-}
+
 
 }
