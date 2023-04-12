@@ -1,6 +1,4 @@
 
-
-
 body 
     
    {
@@ -22,5 +20,17 @@ body
     width: 130px;
     height: 160px;
 }
-
-
+.escola{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.escola__div{
+    width: 200px;
+    height: auto;
+}
+.escola__imagem{
+    width: 200px;
+    height: auto;
+    margin-left: 40px;
+}
