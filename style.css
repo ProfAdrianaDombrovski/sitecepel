@@ -10,7 +10,7 @@ body
 
 .cabecalho  {
     background-color: #008000;
-    color: #800000;
+    color: #240808;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -22,7 +22,5 @@ body
     width: 130px;
     height: 160px;
 }
-.cabecalho-menu
 
-font-size:32px;
 
