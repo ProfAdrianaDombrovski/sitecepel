@@ -14,7 +14,7 @@ body
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: #BCB0B0;
+    background-color: #008000;
     border-radius: 0px 0px 0px 150px;
     
     }
@@ -34,7 +34,7 @@ body
     .cabecalho__menu-item{
         display: inline;
         margin-left: 20px;
-        color:#FEC229;
+        color:#C0C0C0;
         font-size: 32px;
         -webkit-text-stroke-width: 1px;
         -webkit-text-stroke-color: black;
