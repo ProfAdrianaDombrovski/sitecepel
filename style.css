@@ -63,9 +63,11 @@ body
     }
     
     .professores {
-    
-        background-color: #2d542d;;
+        display: grid;
+        background-color: #2d542d;
         border-radius: 40px;
+        justify-items: center;
+         gap: 20px
     }
     
    
