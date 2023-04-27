@@ -65,6 +65,7 @@ body
     .professores {
         display: grid;
         background-color: #2d542d;
+        margin: 20px;
         border-radius: 40px;
         justify-items: center;
          gap: 20px
